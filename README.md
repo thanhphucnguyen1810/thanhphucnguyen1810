@@ -131,8 +131,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen1810/react-trello-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=react-trello-app&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/task-management-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=task-management-app&theme=react" width="400" />
       </a>
     </td>
     <td>
