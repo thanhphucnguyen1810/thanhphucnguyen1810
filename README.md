@@ -34,7 +34,7 @@
 
 ### **Programming Languages**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/>
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/> -->
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40"/>
 
 ### **MERN Stack**
@@ -44,19 +44,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 
 ### **Frameworks & Tools**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="40"/>
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" width="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="40"/> -->
 
 ### **UI / Styling**
-<img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" height="30"/>
+<!-- <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" height="30"/> -->
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="30"/>
+<!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="30"/> -->
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" height="30"/>
 
 ### **Others**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40"/>
@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/thanhphucnguyen1810/fashion-ecommerce-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=fashion-ecommerce-store&theme=react" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=fashion-shop-nl&theme=react" width="300" />
   </a>
   <a href="https://github.com/thanhphucnguyen1810/conversation-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=conversation-bot&theme=react" width="300" />
@@ -140,12 +140,13 @@
 <h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/thanhphucnguyen1810/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=thanhphucnguyen1810&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhphucnguyen1810&theme=discord&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhphucnguyen1810&theme=discord&row=1&column=6&no-frame=true" />
 </p>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
