@@ -62,15 +62,12 @@
 
 ## 📚 What I'm Learning Next
 
-<p align="center">
-  🚀 Exploring new technologies and improving my skills in cloud & DevOps:
-</p>
-
-<p align="center">
+<p align="left">
+  🚀 Exploring new technologies and improving my skills in cloud & DevOps: <br />
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,jira" />
 </p>
 
-<p align="center">
+<p align="left">
   My focus areas for the next few years:<br>
   - Mastering AWS services for scalable cloud architectures<br>
   - Diving deeper into Docker & Kubernetes for container orchestration<br>
@@ -83,7 +80,7 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen1810&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thanhphucnguyen1810&theme=react&hide_border=false" height="180" alt="GitHub Streak"/>  
 </p>
 
 <p align="center">
@@ -96,19 +93,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen1810&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen1810&theme=tokyonight" />
+</p>
+
 ---
 
 ## 💻 Notable Projects
 
 🚧 Here are some projects I've been working on. More coming soon!
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/thanhphucnguyen1810/fashion-shop-nl">
     <img src="https://img.shields.io/badge/Fashion%20Ecommerce%20Store-React%20%7C%20Node%20%7C%20MongoDB-0D74FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- <a href="https://github.com/thanhphucnguyen1810/conversation-bot">
     <img src="https://img.shields.io/badge/Conversation%20Bot-Python%20%7C%20AI-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
   </a> -->
@@ -117,7 +118,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/thanhphucnguyen1810/realtime-chatapp-mern">
     <img src="https://img.shields.io/badge/Realtime%20Chat%20App-MERN%20Stack-F97316?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -126,13 +127,13 @@
   </a> -->
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/thanhphucnguyen1810/react-weather-app">
     <img src="https://img.shields.io/badge/Weather%20App-React%20%7C%20API-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   📄 [Check out my GitHub CV](https://github.com/thanhphucnguyen1810?tab=repositories)
 </p>
 
